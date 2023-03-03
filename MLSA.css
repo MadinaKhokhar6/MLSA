@@ -29,7 +29,7 @@
 }
 
 body {
-    font-family: var(--primary-font);
+    font-family: #2F58CD;
     background-color:white;
 }
 
@@ -189,19 +189,19 @@ p{
     left:0;
     width:100%;
     z-index:999;
-    background-color:#BFBFFF;
+    background-color:#15155c;
     box-shadow: .5084rem 1.1419rem 2.5rem 0 rgb(0 0 0 / 8%);
     transition:0.3s ease-in-out;
 }
 
 /*  Banner */
 .home{
-    background-color: #BFBFFF;
+    background-color: #e8f5ff;
 }
 
 .banner_wrapper p{
     max-width: 80%;
-    color:#72A0C1;
+    color:#2F58CD;
 }
 
 
@@ -291,7 +291,7 @@ p{
     color: #002D72;
 }
 .domain{
-    background-color: #BFBFFF;
+    background-color:  #e8f5ff;
 }
 .services_wrapper {
     background-color:var(--primary-color);
@@ -660,7 +660,7 @@ ul {
         animation-delay: 1s;
         background-color: #005A9C;
         color: #7DF9FF;
-        width: 40%;
+        width: 45%;
         margin: auto;
        margin-top: -90px;
         padding: 3%;
@@ -690,7 +690,7 @@ ul {
 
 /* faq */
 .faq{
-    background-color: #BFBFFF;
+    background-color:  #e8f5ff;
     width: 100;
     text-align: center;
 }
